@@ -8,7 +8,7 @@ public class Main {
 		
 		String cmd = sc.nextLine();
 		
-		System.out.println(cmd);
+		System.out.println("입력된 명령어)" + cmd);
 		
 		System.out.println("== 프로그램 끝 ==");
 	}
